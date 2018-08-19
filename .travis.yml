@@ -1,0 +1,6 @@
+language: go
+go_import_path: github.com/calebcase/log15ter
+sudo: false
+
+go:
+  - master
