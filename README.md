@@ -1,4 +1,4 @@
-# log15ter [![godoc reference](https://godoc.org/github.com/inconshreveable/log15?status.png)](https://godoc.org/github.com/inconshreveable/log15) [![Build Status](https://travis-ci.org/calebcase/log15ter.svg?branch=master)](https://travis-ci.org/calebcase/log15ter)
+# log15ter [![godoc reference](https://godoc.org/github.com/calebcase/log15ter?status.png)](https://godoc.org/github.com/calebcase/log15ter) [![Build Status](https://travis-ci.org/calebcase/log15ter.svg?branch=master)](https://travis-ci.org/calebcase/log15ter)
 
 Package log15ter extends [log15](https://github.com/inconshreveable/log15) with
 ternary handlers. A ternary handler allows for splitting the logic flow of the
